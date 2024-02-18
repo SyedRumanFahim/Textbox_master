@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+.formContainer {
+    background-color: #fff; /* White background */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+.textboxDiv {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+.outputContainer {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+.resultOutput {
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff; /* Blue color for result text */
+}
